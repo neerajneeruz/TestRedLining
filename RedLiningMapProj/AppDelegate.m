@@ -17,7 +17,7 @@
     // Override point for customization after application launch.
     
     NSLog(@"sdfsa");
-    
+    NSLog(@"sdfsa");
     RedLiningViewController *view1=[[RedLiningViewController alloc]initWithNibName:Nil bundle:Nil];
     
     self.window.rootViewController=view1;
