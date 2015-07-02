@@ -16,6 +16,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     
+    NSLog(@"sdfsa");
     
     RedLiningViewController *view1=[[RedLiningViewController alloc]initWithNibName:Nil bundle:Nil];
     
